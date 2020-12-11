@@ -8,5 +8,7 @@ Moi c'est Julien, étudiant en BTS SIO SLAM.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliendechaud&show_icons=true&theme=tokyonight)](https://github.com/juliendechaud/juliendechaud)
 
+[Wakatime stats](https://wakatime.com/@juliendechaud) :clock8:	
+
 # Contact :phone:
 [<img src="https://img.shields.io/badge/@juliendechaud%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/juliendechaud)
